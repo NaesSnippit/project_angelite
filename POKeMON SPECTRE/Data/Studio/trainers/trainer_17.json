@@ -1,0 +1,24 @@
+{
+  "klass": "TrainerBattleSetup",
+  "id": 17,
+  "dbSymbol": "trainer_17",
+  "vsType": 1,
+  "isCouple": false,
+  "baseMoney": 10,
+  "ai": 1,
+  "party": [],
+  "bagEntries": [],
+  "battleId": 0,
+  "resources": {
+    "artworkFull": "",
+    "artworkSmall": "",
+    "character": "",
+    "musics": {
+      "bgm": "",
+      "defeat": "",
+      "encounter": "",
+      "victory": ""
+    },
+    "sprite": ""
+  }
+}

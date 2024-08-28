@@ -1,0 +1,29 @@
+{
+  "klass": "TrainerBattleSetup",
+  "id": 14,
+  "dbSymbol": "trainer_14",
+  "vsType": 1,
+  "isCouple": false,
+  "baseMoney": 10,
+  "ai": 6,
+  "party": [],
+  "bagEntries": [
+    {
+      "dbSymbol": "hyper_potion",
+      "amount": 1
+    }
+  ],
+  "battleId": 0,
+  "resources": {
+    "artworkFull": "",
+    "artworkSmall": "",
+    "character": "",
+    "musics": {
+      "bgm": "",
+      "defeat": "",
+      "encounter": "",
+      "victory": ""
+    },
+    "sprite": ""
+  }
+}
